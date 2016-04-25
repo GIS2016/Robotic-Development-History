@@ -1,12 +1,16 @@
 # Robotic-Development-History
 Robotic Development History
+
 As early as in the 322 B.C. the idea of building robots had been suggested by a Greek philosopher and the historical masterpiece done by Leonardo had together fostered the belief of the emergence of robots. Just before the 20th century three laws were made to define the operation of a robot:
+
 “Law 1 – A robot may not injure a human being, or, through inaction, allow a human being to come to harm.
 Law 2 – A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
 Law 3 – A robot must protect its own existence as long as such protection does not conflict with the First or second Law.” (Isaac, 1942)
+
 This legal structure has constrained the later development of robots for the purpose of protecting humans. After terming “artificial intelligence” in the 1950s more robots are developed and in particular with the hit brought by Star Wars in 1977 the robotic industry has subsequently shifted its focus more on the advancement of humanoid robots.
 
 Timeline 
+
 322 B.C. – “If every tool, when ordered, or even of its own accord, could do the work that befits it… then there would be no need either of apprentices for the master workers or of slaves for the lords.” ~ wrote by Aristotle (Roger, 2010)
 -	expressed the brilliant idea of having a few robots around
 
@@ -40,8 +44,13 @@ Timeline
 
 References:
 1.	Roger, B. (2010). Theories of Tyranny: From Plato to Arendt. Penn State Press. ISBN: 0271044055, 9780271044057. Pp. 63
+
 2.	PBS. [Online]. Tesla Life and Legacy – Race of Robots. Retrieved April 23, 2016 from http://www.pbs.org/tesla/ll/ll_robots.html 
+
 3.	Robotic Knight – by Leonardo da Vinci. [Online]. Retrieved April 23, 2016 from http://www.leonardodavinci.net/robotic-knight.jsp 
+
 4.	Isaac, A. (1942). Astounding Science Fiction: Runaround. Street & Smith Publications, Inc. pp. 94-98.
+
 5.	A Brief History of Robotics. [Online]. Retrieved April 23, 2016 from http://robotics.megagiant.com/history.html 
+
 6.	Computer History Museum. [Online]. Timeline of Computer History. Retrieved April 23, 2016 from http://www.computerhistory.org/timeline/ai-robotics/ 
