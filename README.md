@@ -4,7 +4,9 @@ Robotic Development History
 As early as in the 322 B.C. the idea of building robots had been suggested by a Greek philosopher and the historical masterpiece done by Leonardo had together fostered the belief of the emergence of robots. Just before the 20th century three laws were made to define the operation of a robot:
 
 “Law 1 – A robot may not injure a human being, or, through inaction, allow a human being to come to harm.
+
 Law 2 – A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+
 Law 3 – A robot must protect its own existence as long as such protection does not conflict with the First or second Law.” (Isaac, 1942)
 
 This legal structure has constrained the later development of robots for the purpose of protecting humans. After terming “artificial intelligence” in the 1950s more robots are developed and in particular with the hit brought by Star Wars in 1977 the robotic industry has subsequently shifted its focus more on the advancement of humanoid robots.
@@ -43,6 +45,7 @@ Timeline
 2014 – Pepper, a humanoid robot was introduced with the ability to read emotions 
 
 References:
+
 1.	Roger, B. (2010). Theories of Tyranny: From Plato to Arendt. Penn State Press. ISBN: 0271044055, 9780271044057. Pp. 63
 
 2.	PBS. [Online]. Tesla Life and Legacy – Race of Robots. Retrieved April 23, 2016 from http://www.pbs.org/tesla/ll/ll_robots.html 
